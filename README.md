@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jevin042.github.io/portfolio-3d/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-247BFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://jevin042.github.io/jevin-thakar/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-247BFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio" /></a>
   <a href="https://github.com/jevin042/jinha-companion"><img src="https://img.shields.io/badge/TALK_WITH_JINHA-121C3C?style=for-the-badge&amp;logo=github&amp;logoColor=73B4FF" alt="Explore Jinha companion" /></a>
 </p>
 
@@ -14,16 +14,18 @@ I'm **Jevin**, a web/UI designer and full-stack developer based in Ahmedabad, In
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/jevin042/jinha-companion"><img src="assets/jinha.svg" width="100%" alt="Talk with Jinha — real-time AI companion" /></a></td>
-    <td width="50%"><a href="https://jevin042.github.io/portfolio-3d/"><img src="assets/portfolio.svg" width="100%" alt="Interactive 3D portfolio" /></a></td>
+    <td width="50%"><a href="https://jevin042.github.io/jevin-thakar/"><img src="assets/portfolio.svg" width="100%" alt="Jevin Thakar portfolio" /></a></td>
   </tr>
   <tr>
     <td><strong>Jinha AI Companion</strong><br/>Anam-powered voice and avatar app with English, Korean and Spanish conversation, per-user recent-turn memory, Supabase sign-in, and server-side call budgets.<br/><br/><a href="https://github.com/jevin042/jinha-companion">Source + architecture ↗</a> · <a href="https://jinha-companion.jinha-companion.workers.dev/">Demo interface ↗</a><br/><sub>Live conversations require an invited account and provider availability.</sub></td>
-    <td><strong>Interactive Portfolio</strong><br/>An immersive showcase using Three.js, GSAP and Lenis. A focus on spatial interfaces, motion and responsive frontend development.<br/><br/><a href="https://github.com/jevin042/portfolio-3d">Source ↗</a> · <a href="https://jevin042.github.io/portfolio-3d/">Live website ↗</a></td>
+    <td><strong>Jevin Thakar — Portfolio</strong><br/>A cinematic React/TypeScript portfolio with a scroll-scrub video intro, current AI and web projects, detailed case studies and professional experience.<br/><br/><a href="https://github.com/jevin042/jevin-thakar">Source ↗</a> · <a href="https://jevin042.github.io/jevin-thakar/">Live website ↗</a></td>
   </tr>
 </table>
 
 | Project | Experience | Explore |
 | :--- | :--- | :--- |
+| **Previous 3D Portfolio** | Earlier Three.js, GSAP and Lenis showcase, preserved as an archive | [Live ↗](https://jevin042.github.io/portfolio-3d/) · [Code](https://github.com/jevin042/portfolio-3d) |
+| **MarketTrade** | Independent trading decision-support application with risk controls and diagnostics | [Live ↗](https://markettrade.vercel.app) · Private source |
 | **Midnight Listening Room** | Interactive 3D music room synced with a YouTube channel | [Live ↗](https://jevin042.github.io/midnight-listening-room/) · [Code](https://github.com/jevin042/midnight-listening-room) |
 | **Villa Aurelia** | Cinematic, scroll-driven property showcase | [Live ↗](https://jevin042.github.io/villa-aurelia/) · [Code](https://github.com/jevin042/villa-aurelia) |
 | **Aurum Evening** | Immersive restaurant experience with time-driven navigation | [Live ↗](https://jevin042.github.io/aurum-evening/) · [Code](https://github.com/jevin042/aurum-evening) |
@@ -49,4 +51,4 @@ I'm **Jevin**, a web/UI designer and full-stack developer based in Ahmedabad, In
 <sub>Public repository metrics update daily through GitHub Actions. Private client work is excluded.</sub>
 
 <br/><br/>
-<a href="https://jevin042.github.io/portfolio-3d/"><img src="assets/footer.svg" width="100%" alt="Let's build something worth using — Explore my portfolio" /></a>
+<a href="https://jevin042.github.io/jevin-thakar/"><img src="assets/footer.svg" width="100%" alt="Let's build something worth using — Explore my portfolio" /></a>
