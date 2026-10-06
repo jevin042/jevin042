@@ -1,0 +1,28 @@
+name: Refresh public profile metrics
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Generate public metrics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py
+      - name: Commit changed graphic
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh public GitHub profile metrics"
+            git push
+          fi
